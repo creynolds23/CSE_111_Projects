@@ -1,0 +1,23 @@
+Please respond thoroughly (at least two sentences for each question) to
+the following three questions.
+
+1. Describe an experience you had this semester where you saw the power of
+functions.
+
+The experience that I had with functions is definitely when we started using dictionaries. Without functions
+I think dictionaries would be very difficult to work with and keep organized throughout a program. 
+
+
+2. In your judgment, what is the value of test functions?
+
+In my judgment I do think that they are very worthwhile. At this point in time I am still not
+very familiar and confident in using test files. Could possibly be because I am not sure how to do
+a test file for my final project I chose or that I am not executing them in the right way.
+
+
+3. Describe your process for troubleshooting and fixing a program that
+has a problem. What is one thing you can do to improve your process?
+
+One thing that I can do to improve my process is actually use the debug tool that python has and all other ones have. When 
+I troubleshoot my code I just run my code over and over until I get something else in the terminal, instead of stepping through 
+the code and seeing the exact spot it is wrong at. 
